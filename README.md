@@ -1,3 +1,7 @@
+![Header](./Ada heading.gif)
+
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nirupam Ghosh
 =====================================================================================================================================
 
@@ -25,8 +29,10 @@ I am a B.Tech student in Computer Science Engineering with a keen interest in da
 
 <b>My GitHub Stats</b>
 
-![Nirupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirupam-Ghosh2004&theme=transparent&show_icons=true&hide_border=true)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Nirupam-Ghosh2004&show_icons=true&hide_border=true&theme=transparent" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&theme=transparent&langs_count=8&hide_border=true&layout=compact" /></div>
+</div>
 
-
-
-<a href="https://github.com/Nirupam-Ghosh2004" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
