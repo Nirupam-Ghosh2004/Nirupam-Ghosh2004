@@ -40,5 +40,11 @@
 <br>
 <br>
 <div class='container' align="center">
-<img style="width: 57%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Nirupam-Ghosh2004&show_icons=true&hide_border=true&theme=gotham" /><img style=" width: 43%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&theme=gotham&langs_count=8&hide_border=true" /></div>
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+<img style="width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Nirupam-Ghosh2004&show_icons=true&hide_border=true&theme=transparent" />
+<img style=" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&theme=transparent&langs_count=8&hide_border=true" /></div>
 </div>
