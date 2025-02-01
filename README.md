@@ -41,26 +41,15 @@
 <br>
 
 
+<br>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirupam-Ghosh2004&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&hide_border=true"  width="50%" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirupam-Ghosh2004&theme=dark&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&hide_border=true" width="49%" alt="GitHub Streaks" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=00FFFF&hide_border=true" width="50%" alt="Top Languages" />
+</div>
 
 
-<p align="center">
-  
-  <!-- First Row -->
-  <a href="https://github.com/Nirupam-Ghosh2004">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nirupam-Ghosh2004&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&hide_border=true" width="48%" alt="GitHub Stats">
-  </a>
-
-  <a href="https://github.com/Nirupam-Ghosh2004">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirupam-Ghosh2004&theme=dark&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&hide_border=true" width="48%" alt="GitHub Streaks">
-  </a>
-
-  <!-- Second Row -->
-  <a href="https://github.com/Nirupam-Ghosh2004">
-     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&hide=HTML&langs_count=8&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=00FFFF&hide_border=true" width="60%"&exclude_repo=github-readme-stats" alt="top langs" />
-    
-  </a>
-
-</p>
 
 
 
