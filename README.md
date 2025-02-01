@@ -56,7 +56,8 @@
 
   <!-- Second Row -->
   <a href="https://github.com/Nirupam-Ghosh2004">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=00FFFF&hide_border=true" width="60%" alt="Top Languages">
+     <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&hide=HTML&langs_count=8&layout=compact&bg_color=0d1117&title_color=00FFFF&text_color=00FFFF&hide_border=true" width="60%"&exclude_repo=github-readme-stats" alt="top langs" />
+    
   </a>
 
 </p>
