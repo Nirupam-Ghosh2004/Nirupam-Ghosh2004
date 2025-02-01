@@ -43,8 +43,9 @@
 </div>
 
 <div align="center">
+  
+![stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirupam-Ghosh2004&theme=blue_green)
 
-![stat](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirupam-Ghosh2004&theme=2077)
 </div>
 
 
