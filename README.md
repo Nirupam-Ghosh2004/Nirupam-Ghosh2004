@@ -39,12 +39,14 @@
 </p>
 <br>
 <br>
-<div class='container' align="center">
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-<img style="width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Nirupam-Ghosh2004&show_icons=true&hide_border=true&theme=transparent" />
-<img style=" width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&theme=transparent&langs_count=8&hide_border=true" /></div>
+
+<div align=center>
+  &nbsp &nbsp &nbsp &nbsp &nbsp
+  <img style="width: 55%;"  src="https://github-readme-stats-salesp07.vercel.app/api?username=Nirupam-Ghosh2004&count_private=true&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="readme stats" />
+  <img style=" width: 40%;"  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&hide=HTML&langs_count=8&layout=compact&hide_border=true&theme=transparent&exclude_repo=github-readme-stats" alt="top langs" />
+
+  <br/>
+ <img style="width: 65%;" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Nirupam-Ghosh2004&count_private=true&hide_border=true&theme=transparent&border_radius=10" alt="streak stats"/>
 </div>
+
+
