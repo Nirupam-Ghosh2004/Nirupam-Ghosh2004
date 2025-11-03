@@ -60,9 +60,9 @@
 
 
 <h2 align="center">
-  <img src="https://github.com/Nirupam-Ghosh2004/banner/blob/main/code.gif" alt="Image" style="vertical-align: middle;" width="20">
+  <img src="https://github.com/Nirupam-Ghosh2004/Nirupam-Ghosh2004/blob/main/code.gif?raw=true" alt="Image" style="vertical-align: middle;" width="20">
   <span style="vertical-align: middle;">Tech Stack</span>
-  <img src="https://github.com/Nirupam-Ghosh2004/banner/blob/main/code.gif" alt="Image" style="vertical-align: middle;" width="20">
+  <img src="https://github.com/Nirupam-Ghosh2004/Nirupam-Ghosh2004/blob/main/code.gif?raw=true" alt="Image" style="vertical-align: middle;" width="20">
 </h2>
 
 
