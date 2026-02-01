@@ -72,7 +72,7 @@
 
 <div align="center">
    
-![stats](https://github-readme-stats.vercel.app/api?username=Nirupam-Ghosh2004&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true)
+
 ![language](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nirupam-Ghosh2004&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=20&size_weight=0.5&count_weight=0.5&hide_border=true) 
 </div>
 
