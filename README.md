@@ -44,17 +44,17 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  🎓 <strong>On a journey through Computer Science Engineering</strong>, driven by curiosity and a passion for transforming ideas into reality through code.  
+    <strong>On a journey through Computer Science Engineering</strong>, driven by curiosity and a passion for transforming ideas into reality through code.  
   I thrive on <strong>exploring new technologies</strong> and crafting innovative solutions to real-world challenges.  
 </p>
 
 <p align="center">
-  🚀 <strong>Always open to collaborations!</strong> Whether it's <code>data analysis</code>, <code>web development</code>, or <code>complex problem-solving</code>,  
-  I'm eager to contribute and build something impactful. <strong>Let’s create together!</strong> 💡
+    <strong>Always open to collaborations!</strong> Whether it's <code>data analysis</code>, <code>web development</code>, or <code>complex problem-solving</code>,  
+  I'm eager to contribute and build something impactful. <strong>Let’s create together!</strong> 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&center=true&vCenter=true&width=600&height=25&lines=%F0%9F%92%BB+Code+%7C+Learn+%7C+Build+%7C+Repeat...;%F0%9F%9A%80+Always+Learning+%26+Exploring!">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=500&center=true&vCenter=true&width=600&height=25&lines=Code+|+Learn+|+Build+|+Repeat...;Always+Learning+%26+Exploring!">
 </p>
 
 
